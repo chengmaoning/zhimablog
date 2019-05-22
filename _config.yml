@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 芝麻博客
+title: 寂静之声
 subtitle: "The dots will somehow connect in your future."
 description: "前端、后端、Java、架构、Linux、技术杂谈"
 keywords:
-author: Chengmaoning
-language:
+author: chengmaoning
+language: zh-Hans
 timezone:
 
 # URL
